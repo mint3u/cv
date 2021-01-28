@@ -24,7 +24,7 @@
 
 担当業務詳細は以下の通り。
 
-- 開発言語はGo(gin/gorm)とDocker。DBはRDS(PostgreSQL)
+- 開発言語はGo(gin/gorm)とDocker。RDBはRDS(PostgreSQL)
 - AWSの各サービス(S3/ECS/ECR/SQS/RDS/ElastiCache Redis/KMS/CloudWatch Logs/パラメーターストア/CodeDeploy)を用いた構築・開発。またTerraformでのAWSリソースのコード化
 - CircleCIでのCI/CDの構築
 
@@ -36,7 +36,7 @@
 
 担当業務詳細は以下の通り。
 
-- 開発言語はGo。DBはMySQL。設計にswagger、ビルドツールとしてMakefileを使用。環境はAWS
+- 開発言語はGo。RDBはMySQL。設計にswagger、ビルドツールとしてMakefileを使用。環境はAWS
 - grpc-gatewayを用いたRESTからgRPCへの変換処理の開発
 - ファイル処理を担当するマイクロサービスの実装を一から担当。S3のpresignURLを使用したファイルアップロード実装
 
@@ -60,7 +60,7 @@
 
 担当業務詳細は以下の通り。
 
-- 開発言語はJava8、DBはAurora(MySQL互換)。環境はAWS
+- 開発言語はJava8、RDBはAurora(MySQL互換)。環境はAWS
 - 複数のサービス改修案件の顧客調整及びリードを担当。本番作業(Linuxサーバ操作)についても担当
 - 見積書、要件定義書、設計書、及びテスト仕様書のドキュメント作成またはレビューを担当
 - オフショアが担当するプログラミング開発内容のレビュー及び修正を担当
@@ -73,7 +73,7 @@
 
 担当業務詳細は以下の通り。
 
-- 開発言語はJava8およびJavaScript(ES5/jQuery)、DBはRDS(PostgreSQL)。環境はAWS
+- 開発言語はJava8およびJavaScript(ES5/jQuery)、RDBはRDS(PostgreSQL)。環境はAWS
 - フロントエンド、サーバサイド共に設計、開発、及びテストを担当。顧客調整についても担当
 - ECサイトの多言語化対応やAWSインフラの移行等、大規模な案件にも開発を含む工程で参画。本番作業(Linuxサーバ操作)についても担当
 - DB設計/API設計/ファイルアップロード/多言語化対応/DBデータ移行等、様々な設計・実装を担当
