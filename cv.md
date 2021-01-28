@@ -21,7 +21,7 @@
 担当業務詳細は以下の通り。
 
 - 開発言語はGo(gin/gorm)とDocker。DBはRDS(PostgreSQL)
-- AWSの各サービス(S3/ECS/ECR/SQS/RDS/ElastiCache Redis/KMS/CloudWatch Logs/パラメーターストア)を用いた構築・開発。またTerraformでのAWSリソースのコード化
+- AWSの各サービス(S3/ECS/ECR/SQS/RDS/ElastiCache Redis/KMS/CloudWatch Logs/パラメーターストア/CodeDeploy)を用いた構築・開発。またTerraformでのAWSリソースのコード化
 - CircleCIでのCI/CDの構築
 - Redisを用いたユーザセッション管理の開発
 
