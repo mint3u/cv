@@ -97,5 +97,3 @@ wantedly や twitter のメッセージ等でお気軽にどうぞ。
 <https://www.wantedly.com/users/134267387>
 
 <https://twitter.com/mint3u>
-
-※現在、案件を探してはおりません。
