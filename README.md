@@ -1,6 +1,6 @@
 # 業務経歴
 
-## 基本的な情報
+## 基本情報
 
 <https://www.wantedly.com/users/134267387>
 
