@@ -4,7 +4,7 @@
 
 <https://www.wantedly.com/secret_profiles/AQLpWWyqnJXSPAfmhAdEJgaK2wAYQt1a>
 
-早川 優(yu hayakawa), 1993年生まれ, 男性
+早川 優(yu hayakawa), 1993年生まれ
 
 ## 概要・大切にしていること
 
