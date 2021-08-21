@@ -2,7 +2,7 @@
 
 ## 基本情報
 
-<https://www.wantedly.com/secret_profiles/AQLpWWyqnJXSPAfmhAdEJgaK2wAYQt1a>
+<https://www.wantedly.com/users/134267387>
 
 早川 優(yu hayakawa), 1993年生まれ
 
