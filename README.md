@@ -20,13 +20,27 @@
 
 新しい順に記載します。
 
+### 勤怠管理SaaSの開発(2021年-2022年)
+
+**概要:** 勤怠管理SaaSの新規マイクロサービスの構築および改修を、バックエンドのメインのエンジニアとして担当。
+
+担当業務詳細は以下の通り。
+
+- 開発言語はGo(gRPC/GORM2.0)。RDBはAurora(MySQL)。環境はAWS。GitHubを使用したチーム開発
+- EKSを使用したKubernetes環境での開発。Helmを用いたマニフェスト管理
+- Github ActionsでのCI/CDの構築。TerraformでのAWSリソースのコード化
+
+**発揮したバリュー:** モダンな技術を好んで使う風土の中で、要件調整を行いつつバックエンドのメインエンジニアとして開発面で貢献した。とくに開発のスピード面で高い評価を頂いた。既存の仕様が多く存在する中で、仕様書やコードを読み解きつつキャッチアップを行った。
+
+---
+
 ### 決済アプリの開発(2019年-2021年)
 
 **概要:** 決済アプリのバックエンドにて、新規マイクロサービスの構築および既存マイクロサービスの改修を、要件の調整・設計・実装・テストまで担当。
 
 担当業務詳細は以下の通り。
 
-- 開発言語はGo(gin/gorm)とDocker。RDBはRDS(PostgreSQL)およびAurora(MySQL)。GitHubを使用したチーム開発
+- 開発言語はGo(gin/GORM)とDocker。RDBはRDS(PostgreSQL)およびAurora(MySQL)。GitHubを使用したチーム開発
 - AWSの各サービス(S3/ECS/ECR/SQS/RDS/ElastiCache Redis/KMS/CloudWatch Logs/パラメータストア/CodeDeploy)を用いた各マイクロサービスの構築・開発。またTerraformでのAWSリソースのコード化
 - CircleCIでのCI/CDの構築。DatadogでのログおよびAPMの設定
 
