@@ -30,7 +30,7 @@
 - EKSを使用したKubernetes環境での開発。Helmを用いたマニフェスト管理
 - SQSを用いたpub/subの構築・実装
 - Github ActionsでのCI/CDの構築。TerraformでのAWSリソースのコード化
-- GraphDBを使ったアプリの構築・実装(AWS Neptune/Gremlin)
+- GraphDBを使ったアプリの実装(AWS Neptune/Gremlin)
 
 **発揮したバリュー:** モダンな技術を好んで使う風土の中で、要件調整を行いつつバックエンドのメインエンジニアとして開発面で貢献した。とくに開発のスピード面で高い評価を頂いた。既存の仕様が多く存在する中で、仕様書やコードを読み解きつつキャッチアップを行った。
 
