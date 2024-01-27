@@ -28,7 +28,7 @@
 
 - 開発言語はGo(gRPC/GORM2.0)。RDBはAurora(MySQL)。環境はAWS。GitHubを使用したチーム開発
 - EKSを使用したKubernetes環境での開発。Helmを用いたマニフェスト管理
-- SQSを用いたpub/subの構築・実装
+- SQS,SNSを用いたpub/subの構築・実装
 - Github ActionsでのCI/CDの構築。TerraformでのAWSリソースのコード化
 - GraphDBを使ったアプリの実装(AWS Neptune/Gremlin)
 
