@@ -42,7 +42,7 @@
 
 担当業務詳細は以下の通り。
 
-- 開発言語はGo(gin/GORM)とDocker。RDBはRDS(PostgreSQL)およびAurora(MySQL)。GitHubを使用したチーム開発
+- 開発言語はGo(gin/GORM)とDocker。RDBはRDS(PostgreSQL)。GitHubを使用したチーム開発
 - AWSの各サービス(S3/ECS/ECR/SQS/RDS/ElastiCache Redis/KMS/CloudWatch Logs/パラメータストア/CodeDeploy)を用いた各マイクロサービスの構築・開発。またTerraformでのAWSリソースのコード化
 - CircleCIでのCI/CDの構築。DatadogでのログおよびAPMの設定
 
