@@ -31,7 +31,7 @@
 - SQS, SNSを用いたpub/subの構築・実装
 - Github ActionsでのCI/CDの構築。TerraformでのAWSリソースのコード化
 - GraphDBを使ったアプリの実装(AWS Neptune/Gremlin)
-- Typescriptでのフロントエンド含む開発(Next.js:AppRouter/Prisma/zod)
+- Typescriptでの開発(Next.js AppRouter/Prisma/zod)
 
 **発揮したバリュー:** モダンな技術を好んで使う風土の中で、要件調整を行いつつバックエンドのメインエンジニアとして開発面で貢献した。とくに開発のスピード面で高い評価を頂いた。既存の仕様が多く存在する中で、仕様書やコードを読み解きつつキャッチアップを行った。
 
