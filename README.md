@@ -26,7 +26,7 @@
 
 担当業務詳細は以下の通り。
 
-- 開発言語はGo(gRPC/GORM2.0)。RDBはAurora(MySQL)。環境はAWS。GitHubを使用したチーム開発
+- Goでの開発(gRPC/GORM2.0)。RDBはAurora(MySQL)。環境はAWS。GitHubを使用したチーム開発
 - EKSを使用したKubernetes環境での開発。Helmを用いたマニフェスト管理
 - SQS, SNSを用いたpub/subの構築・実装
 - Github ActionsでのCI/CDの構築。TerraformでのAWSリソースのコード化
